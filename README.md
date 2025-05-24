@@ -76,6 +76,9 @@ streamlit run app.py
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/e401459f-9bc2-4be3-ba40-15f0f73830a0)
 
+## 📝 Notes
+This project was fully developed by me. The README was written based on my knowledge and experience, with support from generative AI tools to refine its structure and presentation.
+
 ## 📄 License
 This project is open source and available under the MIT License.
 
