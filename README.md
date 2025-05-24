@@ -6,8 +6,16 @@ This project showcases a neural network model capable of predicting the next wor
 
 This project showcases a neural network model capable of predicting the next word in a sequence of text, leveraging a Long Short-Term Memory (LSTM) network. The model is trained on the complete text of Hamlet by William Shakespeare and deployed using Streamlit for interactive use.
 
+## 🔍 Key Features
+* LSTM-based sequence prediction model
 
+Trained on classic literature (Hamlet)
 
+Interactive interface powered by Streamlit
+
+Real-time next-word prediction
+
+Model training includes early stopping for optimization
 
 
 
