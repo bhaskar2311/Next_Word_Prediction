@@ -67,7 +67,7 @@ https://nextwordpredictionbybhaskarkumbhar.streamlit.app/
 
 ## 📥 Installation (Local)
 ```
-git clone https://github.com/your-username/next-word-prediction
+git clone https://github.com/bhaskar2311/next-word-prediction
 cd next-word-prediction
 pip install -r requirements.txt
 streamlit run app.py
